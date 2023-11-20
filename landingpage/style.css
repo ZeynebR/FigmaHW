@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-family: 'Source Code Pro', monospace;
+font-family: 'Work Sans', sans-serif;
+}
+
+.container{
+    width: 1146px;
+   padding-top: 50px;
+   margin: auto;
+}
+.nav-header{
+    width: 100%;
+    padding: 0px 0px 0px 1.932px;
+}
